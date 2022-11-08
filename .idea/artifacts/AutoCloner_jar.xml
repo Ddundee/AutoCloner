@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoCloner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoCloner_jar</output-path>
+    <root id="archive" name="AutoCloner.jar">
+      <element id="module-output" name="AutoCloner" />
+    </root>
+  </artifact>
+</component>

@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/AutoCloner_jar</output-path>
     <root id="archive" name="AutoCloner.jar">
       <element id="module-output" name="AutoCloner" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20220924.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

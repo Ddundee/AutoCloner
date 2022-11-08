@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<launch4jConfig>
-  <dontWrapJar>false</dontWrapJar>
-  <headerType>gui</headerType>
-  <jar>C:\Users\dhanu\OneDrive\Desktop\Coding\AutoCloner\out\artifacts\AutoCloner_jar\AutoCloner.jar</jar>
-  <outfile>C:\Users\dhanu\OneDrive\Desktop\Coding\AutoCloner\releases\AutoCloner.exe</outfile>
-  <errTitle></errTitle>
-  <cmdLine></cmdLine>
-  <chdir>.</chdir>
-  <priority>normal</priority>
-  <downloadUrl>http://java.com/download</downloadUrl>
-  <supportUrl></supportUrl>
-  <stayAlive>false</stayAlive>
-  <restartOnCrash>false</restartOnCrash>
-  <manifest></manifest>
-  <icon></icon>
-  <jre>
-    <path></path>
-    <bundledJre64Bit>false</bundledJre64Bit>
-    <bundledJreAsFallback>false</bundledJreAsFallback>
-    <minVersion>1.7.0</minVersion>
-    <maxVersion></maxVersion>
-    <jdkPreference>preferJre</jdkPreference>
-    <runtimeBits>64/32</runtimeBits>
-  </jre>
-</launch4jConfig>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoCloner.iml" filepath="$PROJECT_DIR$/AutoCloner.iml" />
+    </modules>
+  </component>
+</project>
